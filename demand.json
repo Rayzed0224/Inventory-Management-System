@@ -1,0 +1,38 @@
+{
+    "Johor": {
+        "120mmFan": 0,
+        "140mmFan": 0,
+        "AMDRX7900": 0,
+        "FanCooler": 0,
+        "Inteli9-14900K": 0,
+        "Nvidia5070": 0,
+        "Ryzen9-7950X": 0,
+        "WaterCooler": 0,
+        "Z690": 0,
+        "Z790": 0
+    },
+    "KualaLumpur": {
+        "120mmFan": 0,
+        "140mmFan": 0,
+        "AMDRX7900": 0,
+        "FanCooler": 0,
+        "Inteli9-14900K": 0,
+        "Nvidia5070": 0,
+        "Ryzen9-7950X": 0,
+        "WaterCooler": 0,
+        "Z690": 0,
+        "Z790": 0
+    },
+    "Penang": {
+        "120mmFan": 0,
+        "140mmFan": 0,
+        "AMDRX7900": 0,
+        "FanCooler": 0,
+        "Inteli9-14900K": 0,
+        "Nvidia5070": 0,
+        "Ryzen9-7950X": 0,
+        "WaterCooler": 0,
+        "Z690": 0,
+        "Z790": 0
+    }
+}

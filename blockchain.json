@@ -1,0 +1,50 @@
+[
+    {
+        "currentHash": "zhoZ7RRcCxy9",
+        "id": 0,
+        "info": "Genesis Block",
+        "previousHash": "00000",
+        "stage": "Initialization",
+        "timestamp": "2025-03-17 02:15:18"
+    },
+    {
+        "currentHash": "IDHp44dXteFf",
+        "id": 1,
+        "info": "Demand: 5 units of 120mmFan at KualaLumpur",
+        "previousHash": "zhoZ7RRcCxy9",
+        "stage": "Demand Generation",
+        "timestamp": "2025-03-17 02:15:49"
+    },
+    {
+        "currentHash": "Wrw9H1O9sjxF",
+        "id": 2,
+        "info": "Demand: 2 units of WaterCooler at Johor",
+        "previousHash": "IDHp44dXteFf",
+        "stage": "Demand Generation",
+        "timestamp": "2025-03-17 02:15:54"
+    },
+    {
+        "currentHash": "XUHnjX21QQfc",
+        "id": 3,
+        "info": "Demand: 6 units of 120mmFan at KualaLumpur",
+        "previousHash": "Wrw9H1O9sjxF",
+        "stage": "Demand Generation",
+        "timestamp": "2025-03-17 02:15:59"
+    },
+    {
+        "currentHash": "7au37Wx8NgM5",
+        "id": 4,
+        "info": "Allocated 11 of 120mmFan to KualaLumpur",
+        "previousHash": "XUHnjX21QQfc",
+        "stage": "Distribution",
+        "timestamp": "2025-03-17 02:16:06"
+    },
+    {
+        "currentHash": "MqW6uijVHqaN",
+        "id": 5,
+        "info": "Allocated 2 of WaterCooler to Johor",
+        "previousHash": "7au37Wx8NgM5",
+        "stage": "Distribution",
+        "timestamp": "2025-03-17 02:16:06"
+    }
+]
