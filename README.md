@@ -67,5 +67,5 @@ The system uses `nlohmann/json` to store persistent data across runs:
 ### ▶️ Compile & Run
 
 ```bash
-g++ -std=c++17 -o logistics Main.cpp UserSystem.cpp InventorySystem.cpp Blockchain.cpp Logger.cpp -I. -I./nlohmann
+g++ -std=c++20 -o logistics Main.cpp UserSystem.cpp InventorySystem.cpp Blockchain.cpp Logger.cpp -I. -I./nlohmann
 ./logistics
